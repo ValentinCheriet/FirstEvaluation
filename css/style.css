@@ -1,0 +1,29 @@
+#hero {
+    background: url('https://images.alphacoders.com/718/7181.jpg');
+    position: relative;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-custom {
+    background: transparent;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    text-align:left;
+    top: 50%;
+    color: white;
+    font-size: 2rem!important;
+}
+.slogan {
+    height: 40rem;
+    width: 50%;
+}
+
+.btn-discover {
+    background: rgba(0, 0, 0, 0.4)!important;
+    border-radius: 3px!important;
+    color : seashell!important;
+}
